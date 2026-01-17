@@ -4,8 +4,8 @@ A modern, responsive logistics company website built to showcase transport servi
 Designed for performance, clarity, and real-world business use.
 
 ## 🔗 Live Demo
-- Live Website: https://YOUR-VERCEL-LINK.vercel.app
-- GitHub Repository: https://github.com/YOUR-USERNAME/YOUR-REPO
+- Live Website: https://logistics-company-nine.vercel.app
+- GitHub Repository: https://github.com/Tshidiso13/logistics-company
 
 ## 🚚 Project Overview
 This project represents a real-world logistics and transport company website.  
