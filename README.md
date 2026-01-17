@@ -7,7 +7,7 @@ Designed for performance, clarity, and real-world business use.
 - Live Website: https://logistics-company-nine.vercel.app
 - GitHub Repository: https://github.com/Tshidiso13/logistics-company
 
-## 🚚 Project Overview
+##  Project Overview
 This project represents a real-world logistics and transport company website.  
 It focuses on presenting logistics solutions clearly while making it easy for customers to request quotes and contact the business.
 
@@ -16,7 +16,7 @@ The website is suitable for:
 - Transport and freight services
 - Delivery and supply chain businesses
 
-## ✨ Key Features
+## Key Features
 - Responsive landing page (mobile-first design)
 - Fleet & vehicle showcase
 - Logistics services and solutions section
@@ -25,7 +25,7 @@ The website is suitable for:
 - Clean, professional UI
 - SEO-friendly structure and fast load performance
 
-## 🛠 Tech Stack
+## Tech Stack
 - React
 - TypeScript
 - Vite
